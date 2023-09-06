@@ -1,7 +1,5 @@
 # HHA 507 - Assignment # 1 - datasci_1_loading
 
-This repository represents the completion of HHA 507 Assignment # 1 - datasci_1_loading
-
 Features of each dataset:
 
 csv1: this is a csv dataset of patients that died due to covid. It contains all pertinent information related to the research including sex, primary cause of death, whether they were pregnant, age, and so on
